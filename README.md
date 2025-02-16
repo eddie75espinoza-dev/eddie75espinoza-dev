@@ -1,4 +1,4 @@
-# Hi there, I'm Eddie Espinoza! 👋
+# About me!👋
 
 Developer with a degree in Computer Science with more than 10 years of experience in software development and web applications. Specialized in languages such as JavaScript and Python, as well as their frameworks. Extensive experience with relational and non-relational databases, agile methodologies and problem solving. Passionate about technology and continuously looking for opportunities to learn and grow.
 
