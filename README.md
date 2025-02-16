@@ -30,4 +30,3 @@ Developer with a degree in Computer Science with more than 10 years of experienc
 Feel free to reach out if you want to collaborate on a project, ask a question, or just say hi! I'm always open to connecting with fellow developers and tech enthusiasts.
 
 Thanks for visiting my profile!
-```` ▋
