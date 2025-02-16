@@ -76,7 +76,7 @@ Developer with a degree in Computer Science with more than 10 years of experienc
 <a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="36" height="36" /></a>
 </p>
 
-# ![image](https://github.com/user-attachments/assets/51ccd608-3408-465c-bba7-8ae7402f869b) GitHub Stats:
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=eddie75espinoza-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eddie75espinoza-dev&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eddie75espinoza-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
