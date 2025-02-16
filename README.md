@@ -8,9 +8,9 @@ Developer with a degree in Computer Science with more than 10 years of experienc
 - 💡 Always eager to learn and collaborate on exciting projects.
 
 ## 🛠️ Skills
-- **Languages:** JavaScript, TypeScript, Python, Java
+- **Languages:** Python, JavaScript, TypeScript
 - **Frontend:** Vue, HTML5, CSS3
-- **Backend:** Node.js, Express, Django, Flask, FastApi
+- **Backend:** Node.js, Express, Flask, FastApi
 - **Database:** MongoDB, MySQL, PostgreSQL
 - **DevOps:** Docker, Jenkins, GitHub Actions
 
